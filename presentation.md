@@ -19,9 +19,10 @@ title: Intro
 
 ## Who are you?
 
-* Name & Origin
-* Engagement [0-2]
-* Experience
+* Urmina Hossain depy
+* Bangladeshi
+* Mother
+* Future IT engineer
 
 ---
 
